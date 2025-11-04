@@ -30,16 +30,3 @@ How to run (quick)
 		 npm run dev
 		 ```
 
-Notes
-- This README was added and populated automatically during the GitHub upload process.
-- After I create/push the repo I recommend you rotate (revoke + recreate) the PAT you shared, since tokens are sensitive.
-
-License
-- Add a license file if you want this repo public. I can add a `LICENSE` file on request.
-
-Contact / Next steps
-- If you'd like any of the following, tell me and I'll add them before or after pushing:
-	- Make repo public/private change
-	- Add a `LICENSE` (MIT, Apache-2.0, etc.)
-	- Add GitHub Actions CI for tests or linting
-
