@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\app.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\app\\services\\pptx_service.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\services\\pptx_service.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\AI_Image_PPT_Converter\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI_Image_PPT_Converter\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pptx_service.py",
+              "DocumentMoniker": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\app\\services\\pptx_service.py",
+              "RelativeDocumentMoniker": "backend\\app\\services\\pptx_service.py",
+              "ToolTip": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\app\\services\\pptx_service.py",
+              "RelativeToolTip": "backend\\app\\services\\pptx_service.py",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwGYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-09T11:07:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\AI_Image_PPT_Converter\\requirements.txt",
+              "RelativeDocumentMoniker": "AI_Image_PPT_Converter\\requirements.txt",
+              "ToolTip": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\AI_Image_PPT_Converter\\requirements.txt",
+              "RelativeToolTip": "AI_Image_PPT_Converter\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T10:49:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\frontend\\package-lock.json",
+              "RelativeDocumentMoniker": "frontend\\package-lock.json",
+              "ToolTip": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\frontend\\package-lock.json",
+              "RelativeToolTip": "frontend\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T10:49:28.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\frontend\\package.json",
+              "RelativeDocumentMoniker": "frontend\\package.json",
+              "ToolTip": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\frontend\\package.json",
+              "RelativeToolTip": "frontend\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T10:38:43.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\.env",
+              "RelativeDocumentMoniker": "backend\\.env",
+              "ToolTip": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\.env",
+              "RelativeToolTip": "backend\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T10:23:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\app.py",
+              "RelativeDocumentMoniker": "backend\\app.py",
+              "ToolTip": "C:\\Users\\meron\\Downloads\\AI_PPT-main\\AI_PPT-main\\backend\\app.py",
+              "RelativeToolTip": "backend\\app.py",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwMsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-09T10:15:51.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
